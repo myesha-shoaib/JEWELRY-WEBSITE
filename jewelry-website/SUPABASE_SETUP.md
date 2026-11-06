@@ -28,9 +28,9 @@ The seed data is paired with the WebP files in `public/images/`. Keep product ID
 
 ## 4. Configure authentication
 
-In **Authentication → Providers**, enable Email. Under **Authentication → URL Configuration**, set the local development URL to `http://localhost:5173` and add the deployed storefront URL when one exists. Email confirmation can remain enabled.
+In **Authentication → Providers**, enable Email. Under **Authentication → URL Configuration**, set the Site URL to `https://jewelry-website-tau.vercel.app` and add that URL to the redirect allow list. For local development, also allow `http://localhost:5173/**` (and `http://localhost:3000/**` if using that port). Email confirmation can remain enabled.
 
-Signed-in users' bags and favourites are saved to their account; signed-out shoppers' data stays in that browser's local storage. COD checkout requires a signed-in account. The database calculates the total from current product prices, saves an order and item snapshots, and clears the bag only when the order succeeds.
+Sign-up and confirmation-resend links return to the deployed storefront. If a confirmation link expires, sign in on the storefront and use **Resend confirmation email** to request a fresh one. Signed-in users' bags and favourites are saved to their account; signed-out shoppers' data stays in that browser's local storage. COD checkout requires a signed-in account. The database calculates the total from current product prices, saves an order and item snapshots, and clears the bag only when the order succeeds.
 
 ## 5. Configure Resend and deploy the newsletter function
 

@@ -21,6 +21,7 @@ import { supabase, supabaseConfigError } from './lib/supabase'
 import './App.css'
 
 const categories = ['All pieces', 'Rings', 'Necklaces', 'Earrings', 'Bracelets']
+const authRedirectUrl = 'https://jewelry-website-tau.vercel.app'
 const currencyFormatter = new Intl.NumberFormat('en-PK', {
   style: 'currency',
   currency: 'PKR',
@@ -208,6 +209,7 @@ function App() {
   const [authPassword, setAuthPassword] = useState('')
   const [authBusy, setAuthBusy] = useState(false)
   const [authMessage, setAuthMessage] = useState('')
+  const [authNeedsConfirmation, setAuthNeedsConfirmation] = useState(false)
   const [storeError, setStoreError] = useState('')
   const [customerOrders, setCustomerOrders] = useState([])
   const [shippingName, setShippingName] = useState('')
@@ -653,7 +655,7 @@ function App() {
         ? await supabase.auth.signUp({
           email: authEmail.trim(),
           password: authPassword,
-          options: { emailRedirectTo: window.location.origin },
+          options: { emailRedirectTo: authRedirectUrl },
         })
         : await supabase.auth.signInWithPassword({
           email: authEmail.trim(),
@@ -661,16 +663,42 @@ function App() {
         })
 
       if (result.error) {
+        setAuthNeedsConfirmation(/email not confirmed/i.test(result.error.message))
         setAuthMessage(result.error.message)
       } else if (authMode === 'signup' && !result.data.session) {
+        setAuthNeedsConfirmation(true)
         setAuthMessage('Check your email to confirm your new account, then sign in here.')
         setAuthPassword('')
       } else {
+        setAuthNeedsConfirmation(false)
         setAccountOpen(false)
         setAuthPassword('')
       }
     } catch (error) {
       setAuthMessage(`Sign-in failed: ${getErrorMessage(error)}`)
+    } finally {
+      setAuthBusy(false)
+    }
+  }
+
+  const resendConfirmation = async () => {
+    if (!supabase) return
+
+    setAuthMessage('')
+    setAuthBusy(true)
+    try {
+      const { error } = await supabase.auth.resend({
+        type: 'signup',
+        email: authEmail.trim(),
+        options: { emailRedirectTo: authRedirectUrl },
+      })
+      if (error) {
+        setAuthMessage(error.message)
+        return
+      }
+      setAuthMessage('A fresh confirmation link was sent. Open the newest email to finish signing in.')
+    } catch (error) {
+      setAuthMessage(`Could not resend the confirmation email: ${getErrorMessage(error)}`)
     } finally {
       setAuthBusy(false)
     }
@@ -1315,12 +1343,23 @@ function App() {
                       {authBusy ? 'One moment…' : authMode === 'signup' ? 'Create account' : 'Sign in'}
                     </button>
                   </form>
+                  {authNeedsConfirmation && (
+                    <button
+                      className="account-panel__switch"
+                      type="button"
+                      onClick={resendConfirmation}
+                      disabled={authBusy || !authEmail.trim() || !supabase}
+                    >
+                      {authBusy ? 'Sending…' : 'Resend confirmation email'}
+                    </button>
+                  )}
                   <button
                     className="account-panel__switch"
                     type="button"
                     onClick={() => {
                       setAuthMode((mode) => mode === 'signin' ? 'signup' : 'signin')
                       setAuthMessage('')
+                      setAuthNeedsConfirmation(false)
                     }}
                   >
                     {authMode === 'signup' ? 'Already have an account? Sign in' : 'New to Aurelia? Create an account'}
