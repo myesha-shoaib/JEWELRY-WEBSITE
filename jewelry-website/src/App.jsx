@@ -663,7 +663,7 @@ function App() {
         })
 
       if (result.error) {
-        setAuthNeedsConfirmation(/email not confirmed/i.test(result.error.message))
+        setAuthNeedsConfirmation(/email not confirmed|invalid login credentials/i.test(result.error.message))
         setAuthMessage(result.error.message)
       } else if (authMode === 'signup' && !result.data.session) {
         setAuthNeedsConfirmation(true)
