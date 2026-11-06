@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "file": "jewelry-001.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638",
+    "license": "Unsplash License",
+    "alt": "Sculptural gold hoop earrings on pale stone",
+    "category": "Earrings"
+  },
+  {
+    "id": 2,
+    "file": "jewelry-002.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f",
+    "license": "Unsplash License",
+    "alt": "Gold crescent moon pendant on a warm neutral background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 3,
+    "file": "jewelry-003.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908",
+    "license": "Unsplash License",
+    "alt": "Blue gemstone statement earrings on a green leaf",
+    "category": "Earrings"
+  },
+  {
+    "id": 4,
+    "file": "jewelry-004.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1633934542430-0905ccb5f050",
+    "license": "Unsplash License",
+    "alt": "Delicate gold jewellery layered for everyday wear",
+    "category": "Necklaces"
+  },
+  {
+    "id": 5,
+    "file": "jewelry-005.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0",
+    "license": "Unsplash License",
+    "alt": "Gold signet ring on soft white textile",
+    "category": "Rings"
+  },
+  {
+    "id": 6,
+    "file": "jewelry-006.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1721103418312-b0057a8c31c2",
+    "license": "Unsplash License",
+    "alt": "Gold and pearl necklace on a rich red background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 7,
+    "file": "jewelry-007.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1652949715051-323fed65576a",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings with blue topaz and diamonds",
+    "category": "Earrings"
+  },
+  {
+    "id": 8,
+    "file": "jewelry-008.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1628785517892-dbcd2f2719ed",
+    "license": "Unsplash License",
+    "alt": "silver and diamond studded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 9,
+    "file": "jewelry-009.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1705326455036-0fab8ecba04d",
+    "license": "Unsplash License",
+    "alt": "Gold ring on a bright white background",
+    "category": "Rings"
+  },
+  {
+    "id": 10,
+    "file": "jewelry-010.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1758995115857-2de1eb6283d0",
+    "license": "Unsplash License",
+    "alt": "Gold necklace and earrings on white stands",
+    "category": "Necklaces"
+  },
+  {
+    "id": 11,
+    "file": "jewelry-011.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1708220040824-b273dd0a17cc",
+    "license": "Unsplash License",
+    "alt": "Gold hoop earrings on a display stand",
+    "category": "Earrings"
+  },
+  {
+    "id": 12,
+    "file": "jewelry-012.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1629118639934-2b241503956c",
+    "license": "Unsplash License",
+    "alt": "Gold and white beaded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 13,
+    "file": "jewelry-013.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1671644730555-916aa8d8157f",
+    "license": "Unsplash License",
+    "alt": "a close up of a person wearing a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 14,
+    "file": "jewelry-014.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed",
+    "license": "Unsplash License",
+    "alt": "gold and purple beaded necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 15,
+    "file": "jewelry-015.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1643387774154-4ec59518f9a5",
+    "license": "Unsplash License",
+    "alt": "a close up of a person wearing a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 16,
+    "file": "jewelry-016.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1601121141418-c1caa10a2a0b",
+    "license": "Unsplash License",
+    "alt": "gold and purple beaded necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 17,
+    "file": "jewelry-017.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1543294001-f7cd5d7fb516",
+    "license": "Unsplash License",
+    "alt": "three gold-colored studded rings",
+    "category": "Rings"
+  },
+  {
+    "id": 18,
+    "file": "jewelry-018.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1601121141461-920cb1993441",
+    "license": "Unsplash License",
+    "alt": "person wearing gold and silver necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 19,
+    "file": "jewelry-019.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1632525230528-ec17c49bc168",
+    "license": "Unsplash License",
+    "alt": "a pair of gold earrings on a white surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 20,
+    "file": "jewelry-020.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1633810543462-77c4a3b13f07",
+    "license": "Unsplash License",
+    "alt": "a close up of a person wearing a bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 21,
+    "file": "jewelry-021.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1611955167811-4711904bb9f8",
+    "license": "Unsplash License",
+    "alt": "gold diamond studded ring on white textile",
+    "category": "Rings"
+  },
+  {
+    "id": 22,
+    "file": "jewelry-022.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1600862754152-80a263dd564f",
+    "license": "Unsplash License",
+    "alt": "gold and red beaded necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 23,
+    "file": "jewelry-023.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1684439673104-f5d22791c71a",
+    "license": "Unsplash License",
+    "alt": "a woman in a black dress holding a pair of gold hoop earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 24,
+    "file": "jewelry-024.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1679156271456-d6068c543ee7",
+    "license": "Unsplash License",
+    "alt": "a couple of bracelets sitting on top of a table",
+    "category": "Bracelets"
+  },
+  {
+    "id": 25,
+    "file": "jewelry-025.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1518603651734-34dfe67da4d1",
+    "license": "Unsplash License",
+    "alt": "pair of gold-colored earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 26,
+    "file": "jewelry-026.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1601121141499-17ae80afc03a",
+    "license": "Unsplash License",
+    "alt": "gold and silver beaded necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 27,
+    "file": "jewelry-027.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584",
+    "license": "Unsplash License",
+    "alt": "pair of silver earring lot",
+    "category": "Earrings"
+  },
+  {
+    "id": 28,
+    "file": "jewelry-028.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1590548784585-643d2b9f2925",
+    "license": "Unsplash License",
+    "alt": "person wearing silver necklace with silver pendant",
+    "category": "Necklaces"
+  },
+  {
+    "id": 29,
+    "file": "jewelry-029.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1589207212797-cfd546dea0fe",
+    "license": "Unsplash License",
+    "alt": "gold ring on brown wooden table",
+    "category": "Rings"
+  },
+  {
+    "id": 30,
+    "file": "jewelry-030.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1727947074642-0bd47ef70b58",
+    "license": "Unsplash License",
+    "alt": "A pair of necklaces and a pair of earrings",
+    "category": "Necklaces"
+  },
+  {
+    "id": 31,
+    "file": "jewelry-031.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1674329042475-de1a95b4ca62",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings sitting on top of a black case",
+    "category": "Earrings"
+  },
+  {
+    "id": 32,
+    "file": "jewelry-032.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1708221235482-a6e2a807198f",
+    "license": "Unsplash License",
+    "alt": "a woman's hand with a gold bracelet on it",
+    "category": "Bracelets"
+  },
+  {
+    "id": 33,
+    "file": "jewelry-033.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1713950920412-97799efdf870",
+    "license": "Unsplash License",
+    "alt": "a close up of a ring on a black surface",
+    "category": "Rings"
+  },
+  {
+    "id": 34,
+    "file": "jewelry-034.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1742627032795-1dfb552448ce",
+    "license": "Unsplash License",
+    "alt": "Elegant necklace and earrings against a black background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 35,
+    "file": "jewelry-035.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1684616290165-205b153d421e",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings hanging from a branch",
+    "category": "Earrings"
+  },
+  {
+    "id": 36,
+    "file": "jewelry-036.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1758995116383-f51775896add",
+    "license": "Unsplash License",
+    "alt": "A stack of ornate gold bangles on a dark surface",
+    "category": "Bracelets"
+  },
+  {
+    "id": 37,
+    "file": "jewelry-037.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1720686615166-80e6c4584cbe",
+    "license": "Unsplash License",
+    "alt": "A pair of earrings sitting on top of a rock",
+    "category": "Earrings"
+  },
+  {
+    "id": 38,
+    "file": "jewelry-038.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1721103418939-5112f0ccfac8",
+    "license": "Unsplash License",
+    "alt": "A diamond necklace and a pair of earrings",
+    "category": "Necklaces"
+  },
+  {
+    "id": 39,
+    "file": "jewelry-039.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1786117331586-91061a44c135",
+    "license": "Unsplash License",
+    "alt": "Two kite-shaped earrings with green and black stones hanging over grey lichen",
+    "category": "Earrings"
+  },
+  {
+    "id": 40,
+    "file": "jewelry-040.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1599475211349-f4c81b3216bc",
+    "license": "Unsplash License",
+    "alt": "gold and white beaded necklace on brown wooden box",
+    "category": "Necklaces"
+  },
+  {
+    "id": 41,
+    "file": "jewelry-041.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1727784635912-6f6e95d2f66a",
+    "license": "Unsplash License",
+    "alt": "A couple of rings sitting on top of a table",
+    "category": "Rings"
+  },
+  {
+    "id": 42,
+    "file": "jewelry-042.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1601121141412-75c39efebac9",
+    "license": "Unsplash License",
+    "alt": "gold and purple beaded necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 43,
+    "file": "jewelry-043.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1762762938024-6d69c11d8c0a",
+    "license": "Unsplash License",
+    "alt": "Silver earrings with pink stones and dried moss",
+    "category": "Earrings"
+  },
+  {
+    "id": 44,
+    "file": "jewelry-044.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1619893454156-26a705ac9eb5",
+    "license": "Unsplash License",
+    "alt": "woman in gold and gold bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 45,
+    "file": "jewelry-045.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1561812350-932aed735105",
+    "license": "Unsplash License",
+    "alt": "gold-colored and blue gemstone ring",
+    "category": "Rings"
+  },
+  {
+    "id": 46,
+    "file": "jewelry-046.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d",
+    "license": "Unsplash License",
+    "alt": "woman in white off shoulder shirt wearing silver necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 47,
+    "file": "jewelry-047.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1784746624238-2017b2ef4f13",
+    "license": "Unsplash License",
+    "alt": "Handcrafted earrings with various stones hanging from a tree branch",
+    "category": "Earrings"
+  },
+  {
+    "id": 48,
+    "file": "jewelry-048.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1611598935678-c88dca238fce",
+    "license": "Unsplash License",
+    "alt": "gold and diamond studded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 49,
+    "file": "jewelry-049.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1784746829625-b50da7a9d364",
+    "license": "Unsplash License",
+    "alt": "Intricate silver earrings with green and pink gemstones",
+    "category": "Earrings"
+  },
+  {
+    "id": 50,
+    "file": "jewelry-050.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1654699991520-aaaf4dd2608b",
+    "license": "Unsplash License",
+    "alt": "a close up of a necklace with pearls",
+    "category": "Necklaces"
+  },
+  {
+    "id": 51,
+    "file": "jewelry-051.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1693212793204-bcea856c75fe",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings sitting on top of a black cloth",
+    "category": "Earrings"
+  },
+  {
+    "id": 52,
+    "file": "jewelry-052.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1595345705177-ffe090eb0784",
+    "license": "Unsplash License",
+    "alt": "white pearl necklace on gray textile",
+    "category": "Necklaces"
+  },
+  {
+    "id": 53,
+    "file": "jewelry-053.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1626122780071-c09d403b8e32",
+    "license": "Unsplash License",
+    "alt": "gold rings on gray textile",
+    "category": "Rings"
+  },
+  {
+    "id": 54,
+    "file": "jewelry-054.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338",
+    "license": "Unsplash License",
+    "alt": "white pearl necklace with box",
+    "category": "Necklaces"
+  },
+  {
+    "id": 55,
+    "file": "jewelry-055.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1621939745912-aad97fd3a34d",
+    "license": "Unsplash License",
+    "alt": "woman wearing silver diamond stud earring",
+    "category": "Earrings"
+  },
+  {
+    "id": 56,
+    "file": "jewelry-056.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1705326452395-1d35e6add570",
+    "license": "Unsplash License",
+    "alt": "a snake bracelet with a snake head on top of it",
+    "category": "Bracelets"
+  },
+  {
+    "id": 57,
+    "file": "jewelry-057.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1720093601709-66ce9c0068a1",
+    "license": "Unsplash License",
+    "alt": "A gold ring sitting on top of a white box",
+    "category": "Rings"
+  },
+  {
+    "id": 58,
+    "file": "jewelry-058.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1631832722475-dd2ecfc47257",
+    "license": "Unsplash License",
+    "alt": "a close up of a necklace on a black background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 59,
+    "file": "jewelry-059.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1693213085235-ea6deadf8cee",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings on a black background",
+    "category": "Earrings"
+  },
+  {
+    "id": 60,
+    "file": "jewelry-060.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1626122738142-bbd66f671eca",
+    "license": "Unsplash License",
+    "alt": "gold and silver beaded bracelets",
+    "category": "Bracelets"
+  },
+  {
+    "id": 61,
+    "file": "jewelry-061.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1593769834537-485ba69f1bb9",
+    "license": "Unsplash License",
+    "alt": "grayscale photo of woman wearing silver stud earring",
+    "category": "Earrings"
+  },
+  {
+    "id": 62,
+    "file": "jewelry-062.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1638950318136-220b241cd99b",
+    "license": "Unsplash License",
+    "alt": "a book with pearls and a necklace on it",
+    "category": "Necklaces"
+  },
+  {
+    "id": 63,
+    "file": "jewelry-063.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1638734205377-f21045bf6ebe",
+    "license": "Unsplash License",
+    "alt": "a pair of diamond earrings on a white background",
+    "category": "Earrings"
+  },
+  {
+    "id": 64,
+    "file": "jewelry-064.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1640083239745-9bbd77a2097f",
+    "license": "Unsplash License",
+    "alt": "a necklace with a diamond surrounded by pearls",
+    "category": "Necklaces"
+  },
+  {
+    "id": 65,
+    "file": "jewelry-065.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1626784214536-d859187e0bd0",
+    "license": "Unsplash License",
+    "alt": "gold and blue ring on black textile",
+    "category": "Rings"
+  },
+  {
+    "id": 66,
+    "file": "jewelry-066.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1586115180241-b3e4f01ed837",
+    "license": "Unsplash License",
+    "alt": "gold and silver beaded necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 67,
+    "file": "jewelry-067.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1693213085231-fc580d8916de",
+    "license": "Unsplash License",
+    "alt": "a close up of a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 68,
+    "file": "jewelry-068.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1721103428054-6bcf4f655594",
+    "license": "Unsplash License",
+    "alt": "A woman's hand with a bracelet on it",
+    "category": "Bracelets"
+  },
+  {
+    "id": 69,
+    "file": "jewelry-069.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1701777696682-16e569fa8597",
+    "license": "Unsplash License",
+    "alt": "a pair of diamond rings sitting on top of a white cloth",
+    "category": "Rings"
+  },
+  {
+    "id": 70,
+    "file": "jewelry-070.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1682629846138-7db022565bd5",
+    "license": "Unsplash License",
+    "alt": "a pearl and diamond pendant on a black surface",
+    "category": "Necklaces"
+  },
+  {
+    "id": 71,
+    "file": "jewelry-071.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1704445010872-2faefdd733aa",
+    "license": "Unsplash License",
+    "alt": "a pair of gold earrings sitting on top of a white cloth",
+    "category": "Earrings"
+  },
+  {
+    "id": 72,
+    "file": "jewelry-072.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1618713041735-adb0de8316ea",
+    "license": "Unsplash License",
+    "alt": "person wearing silver bracelet and gold ring",
+    "category": "Bracelets"
+  },
+  {
+    "id": 73,
+    "file": "jewelry-073.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1774504347388-3d01f7cac097",
+    "license": "Unsplash License",
+    "alt": "Elegant sapphire and diamond earrings on floral branch",
+    "category": "Earrings"
+  },
+  {
+    "id": 74,
+    "file": "jewelry-074.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1683099869102-bcf8791eb0e5",
+    "license": "Unsplash License",
+    "alt": "a close up of a necklace on a wooden plate",
+    "category": "Necklaces"
+  },
+  {
+    "id": 75,
+    "file": "jewelry-075.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1590166223826-12dee1677420",
+    "license": "Unsplash License",
+    "alt": "woman wearing silver and white pearl earring",
+    "category": "Earrings"
+  },
+  {
+    "id": 76,
+    "file": "jewelry-076.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1591523734506-bc7d280f2719",
+    "license": "Unsplash License",
+    "alt": "silver and gold beaded necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 77,
+    "file": "jewelry-077.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1626784213922-d9f1e050cf8f",
+    "license": "Unsplash License",
+    "alt": "gold and diamond studded ring",
+    "category": "Rings"
+  },
+  {
+    "id": 78,
+    "file": "jewelry-078.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1611652022451-d55126758521",
+    "license": "Unsplash License",
+    "alt": "woman in white dress wearing gold necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 79,
+    "file": "jewelry-079.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1671642883395-0ab89c3ac890",
+    "license": "Unsplash License",
+    "alt": "a pair of red and white earrings sitting on top of a wooden table",
+    "category": "Earrings"
+  },
+  {
+    "id": 80,
+    "file": "jewelry-080.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1645393183651-0b99a0a7adf1",
+    "license": "Unsplash License",
+    "alt": "a white bracelet with a heart charm",
+    "category": "Bracelets"
+  },
+  {
+    "id": 81,
+    "file": "jewelry-081.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1701777696655-17fb18395ccc",
+    "license": "Unsplash License",
+    "alt": "a three row diamond ring on a white cloth",
+    "category": "Rings"
+  },
+  {
+    "id": 82,
+    "file": "jewelry-082.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d",
+    "license": "Unsplash License",
+    "alt": "silver heart pendant necklace on white background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 83,
+    "file": "jewelry-083.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1727990864588-757416bf8062",
+    "license": "Unsplash License",
+    "alt": "A pair of gold earrings sitting on top of a white sheet",
+    "category": "Earrings"
+  },
+  {
+    "id": 84,
+    "file": "jewelry-084.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1723522938827-aeaecb5d913b",
+    "license": "Unsplash License",
+    "alt": "A woman's hand with a bracelet on it",
+    "category": "Bracelets"
+  },
+  {
+    "id": 85,
+    "file": "jewelry-085.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1611653842967-39eb011b2ca3",
+    "license": "Unsplash License",
+    "alt": "woman in white shirt wearing silver earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 86,
+    "file": "jewelry-086.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e",
+    "license": "Unsplash License",
+    "alt": "silver and blue gemstone pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 87,
+    "file": "jewelry-087.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1475179593777-bd12fd56b85d",
+    "license": "Unsplash License",
+    "alt": "shallow focus photography of woman wearing dangling earrings holding her hair near mountain",
+    "category": "Earrings"
+  },
+  {
+    "id": 88,
+    "file": "jewelry-088.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1705326452390-3ecf6070595f",
+    "license": "Unsplash License",
+    "alt": "a necklace on a mannequin with flowers in the background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 89,
+    "file": "jewelry-089.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1778759335295-b332b4eaac15",
+    "license": "Unsplash License",
+    "alt": "A silver ring with a black stone rests on rock",
+    "category": "Rings"
+  },
+  {
+    "id": 90,
+    "file": "jewelry-090.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1588444968576-f8fe92ce56fd",
+    "license": "Unsplash License",
+    "alt": "silver necklace with heart pendant",
+    "category": "Necklaces"
+  },
+  {
+    "id": 91,
+    "file": "jewelry-091.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1722410180651-efd51636f260",
+    "license": "Unsplash License",
+    "alt": "A woman's head wearing a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 92,
+    "file": "jewelry-092.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1727859350557-3e4bd9bf1827",
+    "license": "Unsplash License",
+    "alt": "A woman's hand with a pearl bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 93,
+    "file": "jewelry-093.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1758362197676-228703a17e69",
+    "license": "Unsplash License",
+    "alt": "Gold ring with black gemstone and masonic symbols",
+    "category": "Rings"
+  },
+  {
+    "id": 94,
+    "file": "jewelry-094.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1722410180644-ff76ef805092",
+    "license": "Unsplash License",
+    "alt": "A necklace with a turtle on it sitting on a table",
+    "category": "Necklaces"
+  },
+  {
+    "id": 95,
+    "file": "jewelry-095.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1665159882377-385d68d2bdff",
+    "license": "Unsplash License",
+    "alt": "a group of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 96,
+    "file": "jewelry-096.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1611653843092-db22a32f0d85",
+    "license": "Unsplash License",
+    "alt": "woman in white button up shirt wearing gold bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 97,
+    "file": "jewelry-097.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1727990865600-91f8cb8b0168",
+    "license": "Unsplash License",
+    "alt": "A pair of gold earrings sitting on top of a white sheet",
+    "category": "Earrings"
+  },
+  {
+    "id": 98,
+    "file": "jewelry-098.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1705326454924-f6777522b030",
+    "license": "Unsplash License",
+    "alt": "a white mannequin with a gold necklace on it",
+    "category": "Necklaces"
+  },
+  {
+    "id": 99,
+    "file": "jewelry-099.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1573717008136-5a9f0820e8bf",
+    "license": "Unsplash License",
+    "alt": "woman silver-colored earring",
+    "category": "Earrings"
+  },
+  {
+    "id": 100,
+    "file": "jewelry-100.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0",
+    "license": "Unsplash License",
+    "alt": "gold-and-silver-colored pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 101,
+    "file": "jewelry-101.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1780336673220-a362aaa3aab3",
+    "license": "Unsplash License",
+    "alt": "A hand wearing a silver watch, ring, and beaded bracelet",
+    "category": "Rings"
+  },
+  {
+    "id": 102,
+    "file": "jewelry-102.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1598560917505-59a3ad559071",
+    "license": "Unsplash License",
+    "alt": "silver diamond studded heart pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 103,
+    "file": "jewelry-103.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f36",
+    "license": "Unsplash License",
+    "alt": "pair of gold-colored dangling hook earrings on top of spiral notebook",
+    "category": "Earrings"
+  },
+  {
+    "id": 104,
+    "file": "jewelry-104.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1723361656145-b481be3f9e05",
+    "license": "Unsplash License",
+    "alt": "A close up of a stack of gold and diamond bracelets",
+    "category": "Bracelets"
+  },
+  {
+    "id": 105,
+    "file": "jewelry-105.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1679156271420-e6c596e9c10a",
+    "license": "Unsplash License",
+    "alt": "a diamond ring on a black surface",
+    "category": "Rings"
+  },
+  {
+    "id": 106,
+    "file": "jewelry-106.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1602752250055-5ebb552fc3ae",
+    "license": "Unsplash License",
+    "alt": "gold and silver heart pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 107,
+    "file": "jewelry-107.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1653903414969-0df006d9b6fe",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings and a purse on a table",
+    "category": "Earrings"
+  },
+  {
+    "id": 108,
+    "file": "jewelry-108.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052348449-1dfe87c31b37",
+    "license": "Unsplash License",
+    "alt": "Gold cuff bracelet with pearls reflecting on a mirror",
+    "category": "Bracelets"
+  },
+  {
+    "id": 109,
+    "file": "jewelry-109.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1665159882686-3d4fc7b036a4",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings on a blue box",
+    "category": "Earrings"
+  },
+  {
+    "id": 110,
+    "file": "jewelry-110.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1624929090883-3d2f7874a019",
+    "license": "Unsplash License",
+    "alt": "silver round pendant necklace in grayscale photography",
+    "category": "Necklaces"
+  },
+  {
+    "id": 111,
+    "file": "jewelry-111.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1652766540048-de0a878a3266",
+    "license": "Unsplash License",
+    "alt": "a close up of a person wearing a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 112,
+    "file": "jewelry-112.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1695050049047-54e27a908898",
+    "license": "Unsplash License",
+    "alt": "a close up of a necklace on a table",
+    "category": "Necklaces"
+  },
+  {
+    "id": 113,
+    "file": "jewelry-113.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1592317295760-5c1f677dfc78",
+    "license": "Unsplash License",
+    "alt": "gold and green gemstone ring",
+    "category": "Rings"
+  },
+  {
+    "id": 114,
+    "file": "jewelry-114.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1724937721228-f7bf3df2a4d8",
+    "license": "Unsplash License",
+    "alt": "A close up of a necklace on a leaf",
+    "category": "Necklaces"
+  },
+  {
+    "id": 115,
+    "file": "jewelry-115.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1716461534906-d31a17008801",
+    "license": "Unsplash License",
+    "alt": "a close up of a pair of green and white earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 116,
+    "file": "jewelry-116.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a",
+    "license": "Unsplash License",
+    "alt": "a gold chain bracelet sitting on top of a magazine",
+    "category": "Bracelets"
+  },
+  {
+    "id": 117,
+    "file": "jewelry-117.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1586104237516-5b7075e00d45",
+    "license": "Unsplash License",
+    "alt": "silver blue and green stone ring",
+    "category": "Rings"
+  },
+  {
+    "id": 118,
+    "file": "jewelry-118.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1720528347713-803c714e9d09",
+    "license": "Unsplash License",
+    "alt": "A woman wearing a layered necklace with two pendants",
+    "category": "Necklaces"
+  },
+  {
+    "id": 119,
+    "file": "jewelry-119.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1713004539634-a6694a83f3d9",
+    "license": "Unsplash License",
+    "alt": "a pair of silver colored earrings on a white background",
+    "category": "Earrings"
+  },
+  {
+    "id": 120,
+    "file": "jewelry-120.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1597006354775-2955b15ec026",
+    "license": "Unsplash License",
+    "alt": "person wearing silver beaded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 121,
+    "file": "jewelry-121.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1632974754836-5aec43c7e3de",
+    "license": "Unsplash License",
+    "alt": "a black and white photo of a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 122,
+    "file": "jewelry-122.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1724931652176-1a2af5f5069d",
+    "license": "Unsplash License",
+    "alt": "A gold necklace with a brown tear shaped stone",
+    "category": "Necklaces"
+  },
+  {
+    "id": 123,
+    "file": "jewelry-123.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1763628212781-7d52844cf358",
+    "license": "Unsplash License",
+    "alt": "Elegant pearl and gold earring on woman's ear",
+    "category": "Earrings"
+  },
+  {
+    "id": 124,
+    "file": "jewelry-124.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1601821765780-754fa98637c1",
+    "license": "Unsplash License",
+    "alt": "woman wearing gold necklace and white shirt",
+    "category": "Necklaces"
+  },
+  {
+    "id": 125,
+    "file": "jewelry-125.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1603561596973-8166e9e089d1",
+    "license": "Unsplash License",
+    "alt": "gold and purple gemstone ring",
+    "category": "Rings"
+  },
+  {
+    "id": 126,
+    "file": "jewelry-126.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236",
+    "license": "Unsplash License",
+    "alt": "a necklace hanging on a metal chain",
+    "category": "Necklaces"
+  },
+  {
+    "id": 127,
+    "file": "jewelry-127.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1792496834173-c7e748e1fb01",
+    "license": "Unsplash License",
+    "alt": "A pair of gold earrings with green stones and diamonds on a red display stand",
+    "category": "Earrings"
+  },
+  {
+    "id": 128,
+    "file": "jewelry-128.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1744472457504-f99a96ecbd3e",
+    "license": "Unsplash License",
+    "alt": "A gold bracelet adorned on a wrist",
+    "category": "Bracelets"
+  },
+  {
+    "id": 129,
+    "file": "jewelry-129.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1647233061722-43de3bee81e7",
+    "license": "Unsplash License",
+    "alt": "a yellow and red ring sitting on top of a wooden table",
+    "category": "Rings"
+  },
+  {
+    "id": 130,
+    "file": "jewelry-130.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1610694955371-d4a3e0ce4b52",
+    "license": "Unsplash License",
+    "alt": "woman wearing gold necklace with silver pendant",
+    "category": "Necklaces"
+  },
+  {
+    "id": 131,
+    "file": "jewelry-131.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1682822749969-61a63203c501",
+    "license": "Unsplash License",
+    "alt": "a pair of pearl earrings sitting on top of a table",
+    "category": "Earrings"
+  },
+  {
+    "id": 132,
+    "file": "jewelry-132.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1605884878538-6468614df578",
+    "license": "Unsplash License",
+    "alt": "silver chain link bracelet on white surface",
+    "category": "Bracelets"
+  },
+  {
+    "id": 133,
+    "file": "jewelry-133.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1704957205327-9fbd44d683b7",
+    "license": "Unsplash License",
+    "alt": "a pair of pearls and a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 134,
+    "file": "jewelry-134.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1633555234296-657a18d8b81a",
+    "license": "Unsplash License",
+    "alt": "a woman wearing a white shirt and a gold necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 135,
+    "file": "jewelry-135.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1623303179820-de8ec58b03dc",
+    "license": "Unsplash License",
+    "alt": "a pair of pearl earrings sitting on top of a white box",
+    "category": "Earrings"
+  },
+  {
+    "id": 136,
+    "file": "jewelry-136.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1599459182681-c938b7f65af0",
+    "license": "Unsplash License",
+    "alt": "woman in white tank top wearing silver necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 137,
+    "file": "jewelry-137.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1599708978061-501091150ec9",
+    "license": "Unsplash License",
+    "alt": "silver and green stone ring",
+    "category": "Rings"
+  },
+  {
+    "id": 138,
+    "file": "jewelry-138.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1531995811006-35cb42e1a022",
+    "license": "Unsplash License",
+    "alt": "woman wearing gold-colored ring pendant necklaces",
+    "category": "Necklaces"
+  },
+  {
+    "id": 139,
+    "file": "jewelry-139.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1748679451184-97ddab571605",
+    "license": "Unsplash License",
+    "alt": "Pearl earrings rest next to a seashell",
+    "category": "Earrings"
+  },
+  {
+    "id": 140,
+    "file": "jewelry-140.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1612473078715-923c0069e0c2",
+    "license": "Unsplash License",
+    "alt": "person wearing silver beaded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 141,
+    "file": "jewelry-141.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1761754642919-207d8dd8d1e2",
+    "license": "Unsplash License",
+    "alt": "A ruby and diamond ring on blue silk",
+    "category": "Rings"
+  },
+  {
+    "id": 142,
+    "file": "jewelry-142.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1631050165155-421c47e306f7",
+    "license": "Unsplash License",
+    "alt": "silver necklace on white textile",
+    "category": "Necklaces"
+  },
+  {
+    "id": 143,
+    "file": "jewelry-143.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1665194132409-36fc84b2fe87",
+    "license": "Unsplash License",
+    "alt": "a pair of gold earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 144,
+    "file": "jewelry-144.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1618522755367-bcbb050438b6",
+    "license": "Unsplash License",
+    "alt": "person wearing gold bracelet and bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 145,
+    "file": "jewelry-145.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1623052619099-eab4a7ec273b",
+    "license": "Unsplash License",
+    "alt": "a pair of pearl earrings sitting on top of a table",
+    "category": "Earrings"
+  },
+  {
+    "id": 146,
+    "file": "jewelry-146.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1599459183200-59c7687a0275",
+    "license": "Unsplash License",
+    "alt": "woman in gold sleeveless dress wearing gold necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 147,
+    "file": "jewelry-147.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1735816415206-e971124e0336",
+    "license": "Unsplash License",
+    "alt": "A close up of a person wearing a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 148,
+    "file": "jewelry-148.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1611652032931-10fc009c980a",
+    "license": "Unsplash License",
+    "alt": "woman in white dress shirt wearing silver necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 149,
+    "file": "jewelry-149.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1559075638-e9b2a2e02849",
+    "license": "Unsplash License",
+    "alt": "assorted-color ring collection",
+    "category": "Rings"
+  },
+  {
+    "id": 150,
+    "file": "jewelry-150.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1675113495242-09e2616a4aa2",
+    "license": "Unsplash License",
+    "alt": "a close up of a person wearing a necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 151,
+    "file": "jewelry-151.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1615854430736-c9fae5a95083",
+    "license": "Unsplash License",
+    "alt": "woman wearing silver and green flower earring",
+    "category": "Earrings"
+  },
+  {
+    "id": 152,
+    "file": "jewelry-152.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1602527428055-a2526fabdc9f",
+    "license": "Unsplash License",
+    "alt": "silver and gold beaded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 153,
+    "file": "jewelry-153.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1768423838972-05fba2faca38",
+    "license": "Unsplash License",
+    "alt": "A diamond engagement ring on a teal background",
+    "category": "Rings"
+  },
+  {
+    "id": 154,
+    "file": "jewelry-154.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1659708701940-e60893ef03d0",
+    "license": "Unsplash License",
+    "alt": "a close-up of a necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 155,
+    "file": "jewelry-155.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1536232038510-337303acd6e0",
+    "license": "Unsplash License",
+    "alt": "pair of purple earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 156,
+    "file": "jewelry-156.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1723522938849-6e13ce7fde17",
+    "license": "Unsplash License",
+    "alt": "A woman's hand holding onto a bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 157,
+    "file": "jewelry-157.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1553018561-d068dedd80b0",
+    "license": "Unsplash License",
+    "alt": "person wearing silver-colored earring",
+    "category": "Earrings"
+  },
+  {
+    "id": 158,
+    "file": "jewelry-158.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1662434923031-b9bf1b6c10e2",
+    "license": "Unsplash License",
+    "alt": "a gold chain with a black band",
+    "category": "Necklaces"
+  },
+  {
+    "id": 159,
+    "file": "jewelry-159.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1702374114921-ae6b472efa48",
+    "license": "Unsplash License",
+    "alt": "a pair of white and gold earrings hanging on a wall",
+    "category": "Earrings"
+  },
+  {
+    "id": 160,
+    "file": "jewelry-160.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1602527418517-f33773c47f8a",
+    "license": "Unsplash License",
+    "alt": "gold chain necklace on white textile",
+    "category": "Necklaces"
+  },
+  {
+    "id": 161,
+    "file": "jewelry-161.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1642373299591-5575fdcaabbb",
+    "license": "Unsplash License",
+    "alt": "a person wearing a ring on their left hand",
+    "category": "Rings"
+  },
+  {
+    "id": 162,
+    "file": "jewelry-162.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1588444837495-c6cfeb53f32d",
+    "license": "Unsplash License",
+    "alt": "silver heart pendant necklace on white background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 163,
+    "file": "jewelry-163.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1608613381851-6a058de0dc11",
+    "license": "Unsplash License",
+    "alt": "woman wearing silver necklace and earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 164,
+    "file": "jewelry-164.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1653227908236-36813ab5c30a",
+    "license": "Unsplash License",
+    "alt": "a close up of a gold bracelet on a cloth",
+    "category": "Bracelets"
+  },
+  {
+    "id": 165,
+    "file": "jewelry-165.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e",
+    "license": "Unsplash License",
+    "alt": "silver diamond ring on black box",
+    "category": "Rings"
+  },
+  {
+    "id": 166,
+    "file": "jewelry-166.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1744369382892-eb5b6a2fdc6f",
+    "license": "Unsplash License",
+    "alt": "A diamond necklace displays elegantly on a mannequin",
+    "category": "Necklaces"
+  },
+  {
+    "id": 167,
+    "file": "jewelry-167.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1633555234454-71f397e08584",
+    "license": "Unsplash License",
+    "alt": "a close up of a person wearing a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 168,
+    "file": "jewelry-168.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1586878341523-7acb55eb8c12",
+    "license": "Unsplash License",
+    "alt": "gold and green bracelet on brown textile",
+    "category": "Bracelets"
+  },
+  {
+    "id": 169,
+    "file": "jewelry-169.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1735480165343-96034e9528f9",
+    "license": "Unsplash License",
+    "alt": "A pair of diamond earrings on a reflective surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 170,
+    "file": "jewelry-170.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1719862056514-0cdacd9142b5",
+    "license": "Unsplash License",
+    "alt": "Diamond and pearl necklace with intricate pendant",
+    "category": "Necklaces"
+  },
+  {
+    "id": 171,
+    "file": "jewelry-171.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1787520309842-6a8e4b7cdd7f",
+    "license": "Unsplash License",
+    "alt": "Two gold stud earrings with round diamonds on a textured stone surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 172,
+    "file": "jewelry-172.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1739194806935-3b4c66aee282",
+    "license": "Unsplash License",
+    "alt": "A necklace and earring set on display",
+    "category": "Necklaces"
+  },
+  {
+    "id": 173,
+    "file": "jewelry-173.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1598560917807-1bae44bd2be8",
+    "license": "Unsplash License",
+    "alt": "gold ring on white surface",
+    "category": "Rings"
+  },
+  {
+    "id": 174,
+    "file": "jewelry-174.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1719862057229-4dd650b5ccee",
+    "license": "Unsplash License",
+    "alt": "Ornate pearl and diamond necklace with matching earrings and pendant",
+    "category": "Necklaces"
+  },
+  {
+    "id": 175,
+    "file": "jewelry-175.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1784450691743-74b807fba10e",
+    "license": "Unsplash License",
+    "alt": "Sparkling diamond drop earrings on a black stand",
+    "category": "Earrings"
+  },
+  {
+    "id": 176,
+    "file": "jewelry-176.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1656437342100-6e99ab500845",
+    "license": "Unsplash License",
+    "alt": "a person wearing a gold bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 177,
+    "file": "jewelry-177.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1607703829739-c05b7beddf60",
+    "license": "Unsplash License",
+    "alt": "silver diamond studded ring on black textile",
+    "category": "Rings"
+  },
+  {
+    "id": 178,
+    "file": "jewelry-178.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1589128784765-a69d61ed9c39",
+    "license": "Unsplash License",
+    "alt": "silver necklace with heart pendant",
+    "category": "Necklaces"
+  },
+  {
+    "id": 179,
+    "file": "jewelry-179.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1771173652661-8245a9d94095",
+    "license": "Unsplash License",
+    "alt": "Gold earrings with small diamonds on satin fabric",
+    "category": "Earrings"
+  },
+  {
+    "id": 180,
+    "file": "jewelry-180.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1598472142296-b9e8f89bd9a5",
+    "license": "Unsplash License",
+    "alt": "silver and black beaded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 181,
+    "file": "jewelry-181.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1622584940190-0cedd29ebaa8",
+    "license": "Unsplash License",
+    "alt": "woman wearing silver and diamond stud earring",
+    "category": "Earrings"
+  },
+  {
+    "id": 182,
+    "file": "jewelry-182.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1721103428824-fc962ac61b63",
+    "license": "Unsplash License",
+    "alt": "A diamond necklace on a purple surface",
+    "category": "Necklaces"
+  },
+  {
+    "id": 183,
+    "file": "jewelry-183.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1769078595478-5f756986b818",
+    "license": "Unsplash License",
+    "alt": "Two small diamond stud earrings on green background",
+    "category": "Earrings"
+  },
+  {
+    "id": 184,
+    "file": "jewelry-184.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1676329947145-99145926d3eb",
+    "license": "Unsplash License",
+    "alt": "a silver heart necklace on a white background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 185,
+    "file": "jewelry-185.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1613945407943-59cd755fd69e",
+    "license": "Unsplash License",
+    "alt": "silver diamond ring on red textile",
+    "category": "Rings"
+  },
+  {
+    "id": 186,
+    "file": "jewelry-186.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1616294099799-dab525ec05c1",
+    "license": "Unsplash License",
+    "alt": "woman in white shirt wearing silver necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 187,
+    "file": "jewelry-187.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1761479258392-011cb2090063",
+    "license": "Unsplash License",
+    "alt": "Two small gold square earrings in a box",
+    "category": "Earrings"
+  },
+  {
+    "id": 188,
+    "file": "jewelry-188.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1778000000834-cd4896383602",
+    "license": "Unsplash License",
+    "alt": "Delicate gold bracelets with charms on white background",
+    "category": "Bracelets"
+  },
+  {
+    "id": 189,
+    "file": "jewelry-189.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1589674781759-c21c37956a44",
+    "license": "Unsplash License",
+    "alt": "silver diamond ring on white surface",
+    "category": "Rings"
+  },
+  {
+    "id": 190,
+    "file": "jewelry-190.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1585053736987-f817dc225fc5",
+    "license": "Unsplash License",
+    "alt": "silver necklace on white textile",
+    "category": "Necklaces"
+  },
+  {
+    "id": 191,
+    "file": "jewelry-191.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1769151591224-2eee6793b885",
+    "license": "Unsplash License",
+    "alt": "Delicate hexagonal diamond stud earrings on white background",
+    "category": "Earrings"
+  },
+  {
+    "id": 192,
+    "file": "jewelry-192.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052351987-ec8de5eb1851",
+    "license": "Unsplash License",
+    "alt": "Silver charm bracelet with pearl, seashell, and fish on mirror",
+    "category": "Bracelets"
+  },
+  {
+    "id": 193,
+    "file": "jewelry-193.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1792496834656-aaf0563e7e81",
+    "license": "Unsplash License",
+    "alt": "Two gold hoop earrings with diamond accents on a dark red platform with a leafy plant",
+    "category": "Earrings"
+  },
+  {
+    "id": 194,
+    "file": "jewelry-194.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1623449634301-5ef15c0ad98e",
+    "license": "Unsplash License",
+    "alt": "a heart shaped pendant on a black background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 195,
+    "file": "jewelry-195.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1777999763640-b228fe3192de",
+    "license": "Unsplash License",
+    "alt": "Gold hoop earrings with baguette diamonds",
+    "category": "Earrings"
+  },
+  {
+    "id": 196,
+    "file": "jewelry-196.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1618903608417-fa1c1ea7985f",
+    "license": "Unsplash License",
+    "alt": "woman in black shirt wearing silver necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 197,
+    "file": "jewelry-197.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1613945409199-1b5527d31fe8",
+    "license": "Unsplash License",
+    "alt": "silver diamond ring on red textile",
+    "category": "Rings"
+  },
+  {
+    "id": 198,
+    "file": "jewelry-198.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1625627796701-e3c0911b89f3",
+    "license": "Unsplash License",
+    "alt": "silver beaded necklace on black textile",
+    "category": "Necklaces"
+  },
+  {
+    "id": 199,
+    "file": "jewelry-199.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1701777892770-df3bf8006fd8",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings sitting on top of a white cloth",
+    "category": "Earrings"
+  },
+  {
+    "id": 200,
+    "file": "jewelry-200.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052337944-0543b85bd890",
+    "license": "Unsplash License",
+    "alt": "Elegant gold charm bracelet featuring pearls and ocean-themed charms",
+    "category": "Bracelets"
+  },
+  {
+    "id": 201,
+    "file": "jewelry-201.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1747116404311-55f8d8944e83",
+    "license": "Unsplash License",
+    "alt": "A diamond ring set sits on a display box",
+    "category": "Rings"
+  },
+  {
+    "id": 202,
+    "file": "jewelry-202.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1611012844392-f4f96c7fd052",
+    "license": "Unsplash License",
+    "alt": "white and black cross pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 203,
+    "file": "jewelry-203.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1701777892740-88419a701472",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings sitting on top of a white cloth",
+    "category": "Earrings"
+  },
+  {
+    "id": 204,
+    "file": "jewelry-204.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1766560359672-37fc877671a3",
+    "license": "Unsplash License",
+    "alt": "Colorful braided rope bracelet with gold accent",
+    "category": "Bracelets"
+  },
+  {
+    "id": 205,
+    "file": "jewelry-205.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1705326453273-1c35d7dad309",
+    "license": "Unsplash License",
+    "alt": "a pair of gold and diamond earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 206,
+    "file": "jewelry-206.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1635607135813-660cad9deb3a",
+    "license": "Unsplash License",
+    "alt": "a close up of a leaf with a necklace on it",
+    "category": "Necklaces"
+  },
+  {
+    "id": 207,
+    "file": "jewelry-207.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1705326454933-9685fc6888e1",
+    "license": "Unsplash License",
+    "alt": "a close up of a pair of gold earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 208,
+    "file": "jewelry-208.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1727430522198-69a12bd2e969",
+    "license": "Unsplash License",
+    "alt": "A close up of a person wearing a necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 209,
+    "file": "jewelry-209.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1589674668791-4889d2bba4c6",
+    "license": "Unsplash License",
+    "alt": "silver diamond studded ring on white surface",
+    "category": "Rings"
+  },
+  {
+    "id": 210,
+    "file": "jewelry-210.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1685970735237-c8f8bfc5fab5",
+    "license": "Unsplash License",
+    "alt": "a close up of a necklace on a mannequin",
+    "category": "Necklaces"
+  },
+  {
+    "id": 211,
+    "file": "jewelry-211.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1727990864585-e2aee3197eeb",
+    "license": "Unsplash License",
+    "alt": "A pair of gold earrings sitting on top of a white surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 212,
+    "file": "jewelry-212.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052352007-1329ca4e4f7a",
+    "license": "Unsplash License",
+    "alt": "Elegant silver charm bracelet and pearl earring on a mirror",
+    "category": "Bracelets"
+  },
+  {
+    "id": 213,
+    "file": "jewelry-213.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1586104195538-050b9f74f58e",
+    "license": "Unsplash License",
+    "alt": "silver diamond studded ring on white surface",
+    "category": "Rings"
+  },
+  {
+    "id": 214,
+    "file": "jewelry-214.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1684616290886-ac0e8ec5e91a",
+    "license": "Unsplash License",
+    "alt": "a close up of a necklace on a table",
+    "category": "Necklaces"
+  },
+  {
+    "id": 215,
+    "file": "jewelry-215.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1705326453282-e4e1b78f5fea",
+    "license": "Unsplash License",
+    "alt": "a pair of gold and diamond earrings on a white stand",
+    "category": "Earrings"
+  },
+  {
+    "id": 216,
+    "file": "jewelry-216.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1761222101900-9c9e34fac2ce",
+    "license": "Unsplash License",
+    "alt": "Two arms adorned with delicate silver bracelets",
+    "category": "Bracelets"
+  },
+  {
+    "id": 217,
+    "file": "jewelry-217.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1758995115555-766abbd9a491",
+    "license": "Unsplash License",
+    "alt": "Gold dangle earrings on black velvet display",
+    "category": "Earrings"
+  },
+  {
+    "id": 218,
+    "file": "jewelry-218.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1433979933652-5e766d98ebb4",
+    "license": "Unsplash License",
+    "alt": "green gemstone wire wrap pendant with black background",
+    "category": "Necklaces"
+  },
+  {
+    "id": 219,
+    "file": "jewelry-219.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1575990255913-ae2580577263",
+    "license": "Unsplash License",
+    "alt": "gold-colored earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 220,
+    "file": "jewelry-220.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1623448585160-48b86b876b32",
+    "license": "Unsplash License",
+    "alt": "a necklace with a pink stone hanging from it",
+    "category": "Necklaces"
+  },
+  {
+    "id": 221,
+    "file": "jewelry-221.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1591209627710-d2427565a41f",
+    "license": "Unsplash License",
+    "alt": "silver diamond studded ring with blue gemstone",
+    "category": "Rings"
+  },
+  {
+    "id": 222,
+    "file": "jewelry-222.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1689775703655-6d999e38e64c",
+    "license": "Unsplash License",
+    "alt": "a necklace with a square cut diamond on a chain",
+    "category": "Necklaces"
+  },
+  {
+    "id": 223,
+    "file": "jewelry-223.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052336881-72fd053b1bfa",
+    "license": "Unsplash License",
+    "alt": "Two gold earrings, one with colorful stones, reflected",
+    "category": "Earrings"
+  },
+  {
+    "id": 224,
+    "file": "jewelry-224.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1785064629963-00acd434d04e",
+    "license": "Unsplash License",
+    "alt": "Beaded bracelet with \"friend\" charm",
+    "category": "Bracelets"
+  },
+  {
+    "id": 225,
+    "file": "jewelry-225.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1724937798320-d0c4fac1787d",
+    "license": "Unsplash License",
+    "alt": "A close up of a diamond ring on a blue cloth",
+    "category": "Rings"
+  },
+  {
+    "id": 226,
+    "file": "jewelry-226.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1777068071038-39767b7a9559",
+    "license": "Unsplash License",
+    "alt": "A silver necklace with three circular pendants",
+    "category": "Necklaces"
+  },
+  {
+    "id": 227,
+    "file": "jewelry-227.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1682822801057-d05f74a07a2f",
+    "license": "Unsplash License",
+    "alt": "three pairs of earrings sitting on top of a table",
+    "category": "Earrings"
+  },
+  {
+    "id": 228,
+    "file": "jewelry-228.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052351720-0a618c43da82",
+    "license": "Unsplash License",
+    "alt": "A gold bracelet with seashell and pearl charms",
+    "category": "Bracelets"
+  },
+  {
+    "id": 229,
+    "file": "jewelry-229.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1786116419083-15613580f88e",
+    "license": "Unsplash License",
+    "alt": "Two silver earrings with purple and green stones hanging from a piece of driftwood",
+    "category": "Earrings"
+  },
+  {
+    "id": 230,
+    "file": "jewelry-230.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1762337383928-ed5e352977d2",
+    "license": "Unsplash License",
+    "alt": "Woman wearing a silver eagle pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 231,
+    "file": "jewelry-231.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1722412660230-b88bbbeda524",
+    "license": "Unsplash License",
+    "alt": "A group of earrings hanging from a tree branch",
+    "category": "Earrings"
+  },
+  {
+    "id": 232,
+    "file": "jewelry-232.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1664178266066-e37e0d25e6a1",
+    "license": "Unsplash License",
+    "alt": "a gold and silver necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 233,
+    "file": "jewelry-233.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1514612497953-05d1e5e171fa",
+    "license": "Unsplash License",
+    "alt": "silver-colored clear gemstone ring",
+    "category": "Rings"
+  },
+  {
+    "id": 234,
+    "file": "jewelry-234.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1762337378583-bf520e6fd297",
+    "license": "Unsplash License",
+    "alt": "Sword pendant necklace against a bright sky",
+    "category": "Necklaces"
+  },
+  {
+    "id": 235,
+    "file": "jewelry-235.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1707195081883-3677ba174226",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings sitting on top of a table",
+    "category": "Earrings"
+  },
+  {
+    "id": 236,
+    "file": "jewelry-236.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1778000000743-87e855360c51",
+    "license": "Unsplash License",
+    "alt": "Three delicate gold bracelets with charms on white background",
+    "category": "Bracelets"
+  },
+  {
+    "id": 237,
+    "file": "jewelry-237.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1583937443566-6fe1a1c6e400",
+    "license": "Unsplash License",
+    "alt": "silver diamond studded ring on black surface",
+    "category": "Rings"
+  },
+  {
+    "id": 238,
+    "file": "jewelry-238.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1758974504538-daf9f7e3b98c",
+    "license": "Unsplash License",
+    "alt": "Silver necklace with a teardrop pendant on dark surface",
+    "category": "Necklaces"
+  },
+  {
+    "id": 239,
+    "file": "jewelry-239.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1784746934901-0a47fe42cc84",
+    "license": "Unsplash License",
+    "alt": "Four unique gemstone earrings hanging on a pine branch",
+    "category": "Earrings"
+  },
+  {
+    "id": 240,
+    "file": "jewelry-240.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052337516-9fb23fcf36de",
+    "license": "Unsplash License",
+    "alt": "A gold charm bracelet with pearls and shell-shaped charms",
+    "category": "Bracelets"
+  },
+  {
+    "id": 241,
+    "file": "jewelry-241.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1612720819442-e07b5a486e48",
+    "license": "Unsplash License",
+    "alt": "man in red shirt with silver earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 242,
+    "file": "jewelry-242.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052337990-e33c9f4dcfb1",
+    "license": "Unsplash License",
+    "alt": "A delicate beaded necklace with blue gem and gold accents",
+    "category": "Necklaces"
+  },
+  {
+    "id": 243,
+    "file": "jewelry-243.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052337554-682f77c69e28",
+    "license": "Unsplash License",
+    "alt": "Two silver snake-shaped earrings with green stone eyes on a dark reflective surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 244,
+    "file": "jewelry-244.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1722410180644-5955f83ec8b1",
+    "license": "Unsplash License",
+    "alt": "A picture of a necklace on a table",
+    "category": "Necklaces"
+  },
+  {
+    "id": 245,
+    "file": "jewelry-245.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1656010280162-772358d9f4ed",
+    "license": "Unsplash License",
+    "alt": "a close-up of a ring",
+    "category": "Rings"
+  },
+  {
+    "id": 246,
+    "file": "jewelry-246.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1633555234047-192d10238f5f",
+    "license": "Unsplash License",
+    "alt": "a close up of a woman wearing a necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 247,
+    "file": "jewelry-247.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1560577938-a5ed9b19fe12",
+    "license": "Unsplash License",
+    "alt": "silver-colored earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 248,
+    "file": "jewelry-248.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052345722-b8873a0f9d2e",
+    "license": "Unsplash License",
+    "alt": "Gold charm bracelet with colorful links on a reflective surface",
+    "category": "Bracelets"
+  },
+  {
+    "id": 249,
+    "file": "jewelry-249.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1561995734-ef4b62bb6586",
+    "license": "Unsplash License",
+    "alt": "silver-colored ring",
+    "category": "Rings"
+  },
+  {
+    "id": 250,
+    "file": "jewelry-250.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1623321673989-830eff0fd59f",
+    "license": "Unsplash License",
+    "alt": "a hand holding a gold heart charm on a chain",
+    "category": "Necklaces"
+  },
+  {
+    "id": 251,
+    "file": "jewelry-251.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1708220040828-9ab1673681d3",
+    "license": "Unsplash License",
+    "alt": "a pair of gold earrings on a white surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 252,
+    "file": "jewelry-252.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1786052348553-30d31062d6b6",
+    "license": "Unsplash License",
+    "alt": "A golden bracelet reflects on a mirror surface",
+    "category": "Bracelets"
+  },
+  {
+    "id": 253,
+    "file": "jewelry-253.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1764591576264-ad2e0e4e793c",
+    "license": "Unsplash License",
+    "alt": "Gold earrings with green beads on black background",
+    "category": "Earrings"
+  },
+  {
+    "id": 254,
+    "file": "jewelry-254.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1569397288884-4d43d6738fbd",
+    "license": "Unsplash License",
+    "alt": "gold-colored pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 255,
+    "file": "jewelry-255.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1789206468470-26189b04fe86",
+    "license": "Unsplash License",
+    "alt": "Two silver earrings with twisted metal ribbons and small round red beads",
+    "category": "Earrings"
+  },
+  {
+    "id": 256,
+    "file": "jewelry-256.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1708222169717-8251cfdfa608",
+    "license": "Unsplash License",
+    "alt": "a gold necklace on a white box",
+    "category": "Necklaces"
+  },
+  {
+    "id": 257,
+    "file": "jewelry-257.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1548649551-34b3862657b3",
+    "license": "Unsplash License",
+    "alt": "silver-colored ring",
+    "category": "Rings"
+  },
+  {
+    "id": 258,
+    "file": "jewelry-258.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1695049918857-1e27d67782e5",
+    "license": "Unsplash License",
+    "alt": "a black table with a gold necklace and a cell phone on it",
+    "category": "Necklaces"
+  },
+  {
+    "id": 259,
+    "file": "jewelry-259.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1786835567936-4c05aee49549",
+    "license": "Unsplash License",
+    "alt": "Two silver earrings with iridescent circular stones on a reflective black surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 260,
+    "file": "jewelry-260.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1619119069152-a2b331eb392a",
+    "license": "Unsplash License",
+    "alt": "gold and silver link bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 261,
+    "file": "jewelry-261.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1590703160323-ac5d3fc14089",
+    "license": "Unsplash License",
+    "alt": "silver and diamond ring on white surface",
+    "category": "Rings"
+  },
+  {
+    "id": 262,
+    "file": "jewelry-262.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1773612968627-d1dd72e9d8be",
+    "license": "Unsplash License",
+    "alt": "A gold pendant with a green gem rests on fur",
+    "category": "Necklaces"
+  },
+  {
+    "id": 263,
+    "file": "jewelry-263.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1671513580493-a1701a357101",
+    "license": "Unsplash License",
+    "alt": "a pair of earrings sitting on top of a table",
+    "category": "Earrings"
+  },
+  {
+    "id": 264,
+    "file": "jewelry-264.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1676291055501-286c48bb186f",
+    "license": "Unsplash License",
+    "alt": "a silver bracelet with hearts and two red stones",
+    "category": "Bracelets"
+  },
+  {
+    "id": 265,
+    "file": "jewelry-265.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1714700513036-558227ceabc4",
+    "license": "Unsplash License",
+    "alt": "a close up of a person wearing a pair of earrings",
+    "category": "Earrings"
+  },
+  {
+    "id": 266,
+    "file": "jewelry-266.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1786835567505-25efd51be01b",
+    "license": "Unsplash License",
+    "alt": "A silver spherical pendant with a dark chain on a reflective black surface",
+    "category": "Necklaces"
+  },
+  {
+    "id": 267,
+    "file": "jewelry-267.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1777999745582-781ebbd8c7b9",
+    "license": "Unsplash License",
+    "alt": "Gold hoop earrings with diamonds on white satin",
+    "category": "Earrings"
+  },
+  {
+    "id": 268,
+    "file": "jewelry-268.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1780565596898-eaca27a6c862",
+    "license": "Unsplash License",
+    "alt": "Person wearing a tie-dye t-shirt and multiple gold necklaces",
+    "category": "Necklaces"
+  },
+  {
+    "id": 269,
+    "file": "jewelry-269.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1773142073097-166a5a379cab",
+    "license": "Unsplash License",
+    "alt": "Hand with rings among delicate pink flowers",
+    "category": "Rings"
+  },
+  {
+    "id": 270,
+    "file": "jewelry-270.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1780565336406-2b5112709aef",
+    "license": "Unsplash License",
+    "alt": "Person in grey t-shirt with multiple gold chain necklaces",
+    "category": "Necklaces"
+  },
+  {
+    "id": 271,
+    "file": "jewelry-271.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1751552147727-e084b038e7c8",
+    "license": "Unsplash License",
+    "alt": "Hoop earrings and flowers on a white sculpture",
+    "category": "Earrings"
+  },
+  {
+    "id": 272,
+    "file": "jewelry-272.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1676120963306-8969fa6a810e",
+    "license": "Unsplash License",
+    "alt": "a silver bracelet with a heart on it",
+    "category": "Bracelets"
+  },
+  {
+    "id": 273,
+    "file": "jewelry-273.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1656010280156-fa8c1793c235",
+    "license": "Unsplash License",
+    "alt": "a close-up of a ring",
+    "category": "Rings"
+  },
+  {
+    "id": 274,
+    "file": "jewelry-274.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1598009632415-1b42a2c686b6",
+    "license": "Unsplash License",
+    "alt": "silver heart pendant necklace on black textile",
+    "category": "Necklaces"
+  },
+  {
+    "id": 275,
+    "file": "jewelry-275.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1751551683609-894b17425760",
+    "license": "Unsplash License",
+    "alt": "Golden earrings with purple gemstones on white surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 276,
+    "file": "jewelry-276.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1639065643006-e217c4fee12e",
+    "license": "Unsplash License",
+    "alt": "a diamond bracelet on a black background",
+    "category": "Bracelets"
+  },
+  {
+    "id": 277,
+    "file": "jewelry-277.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1751551683636-62d8a864b693",
+    "license": "Unsplash License",
+    "alt": "Gold earrings rest on purple flowers and fabric",
+    "category": "Earrings"
+  },
+  {
+    "id": 278,
+    "file": "jewelry-278.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1671663906664-9586041c3aa1",
+    "license": "Unsplash License",
+    "alt": "a silver necklace with a bunch of beads hanging from it",
+    "category": "Necklaces"
+  },
+  {
+    "id": 279,
+    "file": "jewelry-279.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1751551683580-c32a84e229a8",
+    "license": "Unsplash License",
+    "alt": "Amethyst earrings rest on a white, silky fabric",
+    "category": "Earrings"
+  },
+  {
+    "id": 280,
+    "file": "jewelry-280.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1758179760646-c7a2b74c446d",
+    "license": "Unsplash License",
+    "alt": "Close up of a star pendant on a necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 281,
+    "file": "jewelry-281.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1590703160416-5b17d229e381",
+    "license": "Unsplash License",
+    "alt": "silver and diamond studded ring",
+    "category": "Rings"
+  },
+  {
+    "id": 282,
+    "file": "jewelry-282.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1780566760072-4319cdc6d671",
+    "license": "Unsplash License",
+    "alt": "Person wearing two gold chains and a baseball cap pendant",
+    "category": "Necklaces"
+  },
+  {
+    "id": 283,
+    "file": "jewelry-283.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1751552147802-fda131627843",
+    "license": "Unsplash License",
+    "alt": "Golden hoop earrings are displayed with pretty flowers",
+    "category": "Earrings"
+  },
+  {
+    "id": 284,
+    "file": "jewelry-284.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1676120963358-be514060350b",
+    "license": "Unsplash License",
+    "alt": "a bracelet with a heart on it",
+    "category": "Bracelets"
+  },
+  {
+    "id": 285,
+    "file": "jewelry-285.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1679156271355-31d335baf0cb",
+    "license": "Unsplash License",
+    "alt": "a diamond and sapphire ring on a black background",
+    "category": "Rings"
+  },
+  {
+    "id": 286,
+    "file": "jewelry-286.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1786840319645-427aa6b23b12",
+    "license": "Unsplash License",
+    "alt": "A silver chain necklace with a circular pendant on shiny black fabric",
+    "category": "Necklaces"
+  },
+  {
+    "id": 287,
+    "file": "jewelry-287.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1751551683757-9363ba2b7466",
+    "license": "Unsplash License",
+    "alt": "Earrings and flowers on a white cloth",
+    "category": "Earrings"
+  },
+  {
+    "id": 288,
+    "file": "jewelry-288.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1676296227404-9a7c32bb826d",
+    "license": "Unsplash License",
+    "alt": "a silver bracelet with hearts and pink stones",
+    "category": "Bracelets"
+  },
+  {
+    "id": 289,
+    "file": "jewelry-289.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1751551683687-e2679cf22d2f",
+    "license": "Unsplash License",
+    "alt": "Amethyst earrings rest on a white, textured surface",
+    "category": "Earrings"
+  },
+  {
+    "id": 290,
+    "file": "jewelry-290.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1784090985579-038026b8957e",
+    "license": "Unsplash License",
+    "alt": "A blonde woman in sunglasses biting a pearl cross necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 291,
+    "file": "jewelry-291.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1762762905728-955d8ec09cbb",
+    "license": "Unsplash License",
+    "alt": "Handmade silver earrings hanging from a branch",
+    "category": "Earrings"
+  },
+  {
+    "id": 292,
+    "file": "jewelry-292.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1790435397202-2fa126667f30",
+    "license": "Unsplash License",
+    "alt": "A woman with long grey hair wearing sunglasses and a gold pendant necklace",
+    "category": "Necklaces"
+  },
+  {
+    "id": 293,
+    "file": "jewelry-293.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1605102062083-ae61a51393f3",
+    "license": "Unsplash License",
+    "alt": "silver diamond ring on white book page",
+    "category": "Rings"
+  },
+  {
+    "id": 294,
+    "file": "jewelry-294.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1634229475946-6099ad182cf4",
+    "license": "Unsplash License",
+    "alt": "a necklace with a circle and a bar hanging from it",
+    "category": "Necklaces"
+  },
+  {
+    "id": 295,
+    "file": "jewelry-295.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1784746724229-dec207876a7a",
+    "license": "Unsplash License",
+    "alt": "Ornate green and purple stone earrings on a pine branch",
+    "category": "Earrings"
+  },
+  {
+    "id": 296,
+    "file": "jewelry-296.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1629890731335-52295b8be1d9",
+    "license": "Unsplash License",
+    "alt": "blue and silver beaded bracelet",
+    "category": "Bracelets"
+  },
+  {
+    "id": 297,
+    "file": "jewelry-297.webp",
+    "source": "https://unsplash.com/s/photos/gold-rings-jewelry",
+    "image": "https://images.unsplash.com/photo-1612051525473-527d17db5616",
+    "license": "Unsplash License",
+    "alt": "silver and orange stone ring",
+    "category": "Rings"
+  },
+  {
+    "id": 298,
+    "file": "jewelry-298.webp",
+    "source": "https://unsplash.com/s/photos/gold-necklaces-jewelry",
+    "image": "https://images.unsplash.com/photo-1731014223915-d4abf1d4d64d",
+    "license": "Unsplash License",
+    "alt": "A picture of a necklace and some leaves",
+    "category": "Necklaces"
+  },
+  {
+    "id": 299,
+    "file": "jewelry-299.webp",
+    "source": "https://unsplash.com/s/photos/gold-earrings-jewelry",
+    "image": "https://images.unsplash.com/photo-1764181106586-1ca290a3a395",
+    "license": "Unsplash License",
+    "alt": "Gold earrings displayed on seashells and coral",
+    "category": "Earrings"
+  },
+  {
+    "id": 300,
+    "file": "jewelry-300.webp",
+    "source": "https://unsplash.com/s/photos/gold-bracelets-jewelry",
+    "image": "https://images.unsplash.com/photo-1676301086269-e29839fbd6f6",
+    "license": "Unsplash License",
+    "alt": "a silver bracelet with a heart charm",
+    "category": "Bracelets"
+  }
+]

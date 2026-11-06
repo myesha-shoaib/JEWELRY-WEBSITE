@@ -1,0 +1,4 @@
+project_id = "aurelia-jewellery"
+
+[functions.newsletter]
+verify_jwt = false
