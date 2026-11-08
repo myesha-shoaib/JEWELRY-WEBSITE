@@ -1,6 +1,6 @@
 # Supabase setup
 
-The storefront is wired for a Supabase PostgreSQL database, email/password accounts, saved shopping bags and favourites, cash-on-delivery orders, and a double-opt-in newsletter confirmation email. The local catalogue remains available if Supabase has not been configured.
+The storefront is wired for a Supabase PostgreSQL database, existing email/password account sessions, saved shopping bags and favourites, cash-on-delivery orders, and a double-opt-in newsletter confirmation email. Sign-in is currently hidden in the storefront; shoppers without an existing authenticated session can browse and save their bag locally, but cannot place a COD order.
 
 ## 1. Create a Supabase project
 
@@ -30,7 +30,7 @@ The seed data is paired with the WebP files in `public/images/`. Keep product ID
 
 In **Authentication → Providers**, enable Email. Under **Authentication → URL Configuration**, set the Site URL to `https://jewelry-website-tau.vercel.app` and add that URL to the redirect allow list. For local development, also allow `http://localhost:5173/**` (and `http://localhost:3000/**` if using that port). Email confirmation can remain enabled.
 
-Sign-up and confirmation-resend links return to the deployed storefront. If a confirmation link expires, sign in on the storefront and use **Resend confirmation email** to request a fresh one. Signed-in users' bags and favourites are saved to their account; signed-out shoppers' data stays in that browser's local storage. COD checkout requires a signed-in account. The database calculates the total from current product prices, saves an order and item snapshots, and clears the bag only when the order succeeds.
+Authentication and redirect settings are retained for existing authenticated sessions and future account workflows, but the storefront currently has no sign-up, sign-in, or confirmation-resend controls. Signed-in users' bags and favourites are saved to their account; signed-out shoppers' data stays in that browser's local storage. COD checkout requires an existing signed-in account. The database calculates the total from current product prices, saves an order and item snapshots, and clears the bag only when the order succeeds.
 
 ## 5. Configure Resend and deploy the newsletter function
 

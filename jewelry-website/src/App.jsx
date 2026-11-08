@@ -21,7 +21,6 @@ import { supabase, supabaseConfigError } from './lib/supabase'
 import './App.css'
 
 const categories = ['All pieces', 'Rings', 'Necklaces', 'Earrings', 'Bracelets']
-const authRedirectUrl = 'https://jewelry-website-tau.vercel.app'
 const currencyFormatter = new Intl.NumberFormat('en-PK', {
   style: 'currency',
   currency: 'PKR',
@@ -204,12 +203,7 @@ function App() {
   const [activeFaq, setActiveFaq] = useState(0)
   const [accountOpen, setAccountOpen] = useState(false)
   const [cartOpen, setCartOpen] = useState(false)
-  const [authMode, setAuthMode] = useState('signin')
-  const [authEmail, setAuthEmail] = useState('')
-  const [authPassword, setAuthPassword] = useState('')
-  const [authBusy, setAuthBusy] = useState(false)
-  const [authMessage, setAuthMessage] = useState('')
-  const [authNeedsConfirmation, setAuthNeedsConfirmation] = useState(false)
+  const [accountMessage, setAccountMessage] = useState('')
   const [storeError, setStoreError] = useState('')
   const [customerOrders, setCustomerOrders] = useState([])
   const [shippingName, setShippingName] = useState('')
@@ -555,7 +549,7 @@ function App() {
     event.preventDefault()
     setCheckoutMessage('')
     if (!supabase || !session?.user) {
-      setCheckoutMessage('Sign in before placing a cash-on-delivery order.')
+      setCheckoutMessage('Cash-on-delivery orders are unavailable without an account.')
       return
     }
 
@@ -639,85 +633,20 @@ function App() {
     }
   }
 
-  const submitAuth = async (event) => {
-    event.preventDefault()
-    setAuthMessage('')
-    setAuthBusy(true)
-
-    if (!supabase) {
-      setAuthMessage(supabaseConfigError || 'Connect your Supabase project using the setup guide before signing in.')
-      setAuthBusy(false)
-      return
-    }
-
-    try {
-      const result = authMode === 'signup'
-        ? await supabase.auth.signUp({
-          email: authEmail.trim(),
-          password: authPassword,
-          options: { emailRedirectTo: authRedirectUrl },
-        })
-        : await supabase.auth.signInWithPassword({
-          email: authEmail.trim(),
-          password: authPassword,
-        })
-
-      if (result.error) {
-        setAuthNeedsConfirmation(/email not confirmed|invalid login credentials/i.test(result.error.message))
-        setAuthMessage(result.error.message)
-      } else if (authMode === 'signup' && !result.data.session) {
-        setAuthNeedsConfirmation(true)
-        setAuthMessage('Check your email to confirm your new account, then sign in here.')
-        setAuthPassword('')
-      } else {
-        setAuthNeedsConfirmation(false)
-        setAccountOpen(false)
-        setAuthPassword('')
-      }
-    } catch (error) {
-      setAuthMessage(`Sign-in failed: ${getErrorMessage(error)}`)
-    } finally {
-      setAuthBusy(false)
-    }
-  }
-
-  const resendConfirmation = async () => {
-    if (!supabase) return
-
-    setAuthMessage('')
-    setAuthBusy(true)
-    try {
-      const { error } = await supabase.auth.resend({
-        type: 'signup',
-        email: authEmail.trim(),
-        options: { emailRedirectTo: authRedirectUrl },
-      })
-      if (error) {
-        setAuthMessage(error.message)
-        return
-      }
-      setAuthMessage('A fresh confirmation link was sent. Open the newest email to finish signing in.')
-    } catch (error) {
-      setAuthMessage(`Could not resend the confirmation email: ${getErrorMessage(error)}`)
-    } finally {
-      setAuthBusy(false)
-    }
-  }
-
   const signOut = async () => {
     if (!supabase) return
     try {
       const { error } = await supabase.auth.signOut()
       if (error) {
-        setAuthMessage(`Could not sign out: ${error.message}`)
+        setAccountMessage(`Could not sign out: ${error.message}`)
         return
       }
     } catch (error) {
-      setAuthMessage(`Could not sign out: ${getErrorMessage(error)}`)
+      setAccountMessage(`Could not sign out: ${getErrorMessage(error)}`)
       return
     }
     setAccountOpen(false)
-    setAuthMessage('')
+    setAccountMessage('')
     setCartItems(readGuestCart())
     setSavedProducts(new Set(readGuestWishlist()))
   }
@@ -773,18 +702,20 @@ function App() {
             >
               {searchOpen ? <X size={19} /> : <Search size={19} />}
             </button>
-            <button
-              className="icon-button header-account"
-              type="button"
-              aria-label={session?.user ? `Your account, ${session.user.email}` : 'Sign in or create an account'}
-              aria-expanded={accountOpen}
-              onClick={() => {
-                setAuthMessage('')
-                setAccountOpen(true)
-              }}
-            >
-              <UserRound size={19} />
-            </button>
+            {session?.user && (
+              <button
+                className="icon-button header-account"
+                type="button"
+                aria-label={`Your account, ${session.user.email}`}
+                aria-expanded={accountOpen}
+                onClick={() => {
+                  setAccountMessage('')
+                  setAccountOpen(true)
+                }}
+              >
+                <UserRound size={19} />
+              </button>
+            )}
             <button
               className="bag-button"
               type="button"
@@ -1251,7 +1182,7 @@ function App() {
       </footer>
 
       <AnimatePresence>
-        {accountOpen && (
+        {accountOpen && session?.user && (
           <motion.div
             className="store-overlay"
             role="presentation"
@@ -1274,21 +1205,14 @@ function App() {
               <div className="store-panel__heading">
                 <div>
                   <p className="eyebrow"><span className="eyebrow__line" />Your Aurelia account</p>
-                  <h2 id="account-panel-title">{session?.user ? 'Lovely to see you.' : 'Welcome, lovely.'}</h2>
+                  <h2 id="account-panel-title">Lovely to see you.</h2>
                 </div>
                 <button className="store-panel__close" type="button" aria-label="Close account panel" onClick={() => setAccountOpen(false)}>
                   <X size={20} />
                 </button>
               </div>
 
-              {!supabase ? (
-                <>
-                  <p className="account-panel__status account-panel__status--offline" role="status">
-                    {supabaseConfigError || 'Supabase is not connected yet. Add your project URL and publishable key to .env.local.'}
-                  </p>
-                  <p className="account-panel__help">Follow <strong>SUPABASE_SETUP.md</strong> to connect the database, then restart the development server.</p>
-                </>
-              ) : session?.user ? (
+              {session?.user && (
                 <>
                   <p className="account-panel__email">{session.user.email}</p>
                   <p className="account-panel__status">Your favourites and shopping bag are saved to your account.</p>
@@ -1313,57 +1237,7 @@ function App() {
                   <button className="button button--outline account-panel__signout" type="button" onClick={signOut}>
                     Sign out
                   </button>
-                  {authMessage && <p className="store-form__message" role="alert">{authMessage}</p>}
-                </>
-              ) : (
-                <>
-                  <p className="account-panel__status">Sign in to keep your favourites and shopping bag with you.</p>
-                  <form className="store-form" onSubmit={submitAuth}>
-                    <label htmlFor="account-email">Email address</label>
-                    <input
-                      id="account-email"
-                      type="email"
-                      autoComplete="email"
-                      value={authEmail}
-                      onChange={(event) => setAuthEmail(event.target.value)}
-                      required
-                    />
-                    <label htmlFor="account-password">Password</label>
-                    <input
-                      id="account-password"
-                      type="password"
-                      autoComplete={authMode === 'signup' ? 'new-password' : 'current-password'}
-                      minLength={6}
-                      value={authPassword}
-                      onChange={(event) => setAuthPassword(event.target.value)}
-                      required
-                    />
-                    {authMessage && <p className="store-form__message" role="alert">{authMessage}</p>}
-                    <button className="button button--outline store-form__submit" type="submit" disabled={authBusy || !supabase}>
-                      {authBusy ? 'One moment…' : authMode === 'signup' ? 'Create account' : 'Sign in'}
-                    </button>
-                  </form>
-                  {authNeedsConfirmation && (
-                    <button
-                      className="account-panel__switch"
-                      type="button"
-                      onClick={resendConfirmation}
-                      disabled={authBusy || !authEmail.trim() || !supabase}
-                    >
-                      {authBusy ? 'Sending…' : 'Resend confirmation email'}
-                    </button>
-                  )}
-                  <button
-                    className="account-panel__switch"
-                    type="button"
-                    onClick={() => {
-                      setAuthMode((mode) => mode === 'signin' ? 'signup' : 'signin')
-                      setAuthMessage('')
-                      setAuthNeedsConfirmation(false)
-                    }}
-                  >
-                    {authMode === 'signup' ? 'Already have an account? Sign in' : 'New to Aurelia? Create an account'}
-                  </button>
+                  {accountMessage && <p className="store-form__message" role="alert">{accountMessage}</p>}
                 </>
               )}
             </motion.section>
@@ -1489,15 +1363,7 @@ function App() {
                       </form>
                     ) : (
                       <div className="cart-drawer__signin">
-                        <p>Sign in to enter your delivery details and place a cash-on-delivery order.</p>
-                        <button
-                          className="button button--outline"
-                          type="button"
-                          onClick={() => {
-                            setCartOpen(false)
-                            setAccountOpen(true)
-                          }}
-                        >Sign in to continue</button>
+                        <p>Cash-on-delivery checkout is unavailable because account sign-in is disabled. Your bag is saved on this device.</p>
                       </div>
                     )}
                   </div>
